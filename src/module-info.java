@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tiffy
+ *
+ */
+module CoreJavaBasics {
+}
